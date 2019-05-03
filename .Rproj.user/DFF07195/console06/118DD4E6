@@ -1,3 +1,55 @@
 ]0;~/neljass[?1034hMari-Annas-MBP:neljass mari-anna$ [KMari-Annas-MBP:neljass mari-anna$ git init
 Initialized empty Git repository in /Users/mari-anna/neljass/.git/
 ]0;~/neljassMari-Annas-MBP:neljass mari-anna$ git add. .[C
+]0;~/neljassMari-Annas-MBP:neljass mari-anna$ git commit"[K 2[K"õpime giti[K[K[K[K[K[K[K[K[K[Kõpime giti ja erri"
+error: pathspec 'õpime giti ja erri' did not match any file(s) known to git
+]0;~/neljassMari-Annas-MBP:neljass mari-anna$ git commit -m "vihma sajab ja liiga külm on täna"
+[master (root-commit) e583fd0] vihma sajab ja liiga külm on täna
+ Committer: Mari-Anna Lepasson <mari-anna@Mari-Annas-MBP.lan>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 20 files changed, 208 insertions(+)
+ create mode 100644 .Rproj.user/DFF07195/console06/118DD4E6
+ create mode 100644 .Rproj.user/DFF07195/console06/118DD4E6.env
+ create mode 100644 .Rproj.user/DFF07195/console06/INDEX001
+ create mode 100644 .Rproj.user/DFF07195/sources/prop/9E77D981
+ create mode 100644 .Rproj.user/DFF07195/sources/prop/FBFDB9DE
+ create mode 100644 .Rproj.user/DFF07195/sources/prop/INDEX
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/50510A9B
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/50510A9B-contents
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/88F9725D
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/88F9725D-contents
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/AAFF1FEA-contents
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/BDF5E1C1
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/BDF5E1C1-contents
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/F983BA05
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/F983BA05-contents
+ create mode 100644 .Rproj.user/DFF07195/sources/s-A0D04167/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 .gitignore
+ create mode 100644 skriiipt.R
+]0;~/neljassMari-Annas-MBP:neljass mari-anna$ git remote add origin https://github.com/marianna-l/okapi.git
+]0;~/neljassMari-Annas-MBP:neljass mari-anna$ git push origin master
+Enumerating objects: 24, done.
+Counting objects:   4% (1/24)   Counting objects:   8% (2/24)   Counting objects:  12% (3/24)   Counting objects:  16% (4/24)   Counting objects:  20% (5/24)   Counting objects:  25% (6/24)   Counting objects:  29% (7/24)   Counting objects:  33% (8/24)   Counting objects:  37% (9/24)   Counting objects:  41% (10/24)   Counting objects:  45% (11/24)   Counting objects:  50% (12/24)   Counting objects:  54% (13/24)   Counting objects:  58% (14/24)   Counting objects:  62% (15/24)   Counting objects:  66% (16/24)   Counting objects:  70% (17/24)   Counting objects:  75% (18/24)   Counting objects:  79% (19/24)   Counting objects:  83% (20/24)   Counting objects:  87% (21/24)   Counting objects:  91% (22/24)   Counting objects:  95% (23/24)   Counting objects: 100% (24/24)   Counting objects: 100% (24/24), done.
+Delta compression using up to 4 threads
+Compressing objects:   5% (1/20)   Compressing objects:  10% (2/20)   Compressing objects:  15% (3/20)   Compressing objects:  20% (4/20)   Compressing objects:  25% (5/20)   Compressing objects:  30% (6/20)   Compressing objects:  35% (7/20)   Compressing objects:  40% (8/20)   Compressing objects:  45% (9/20)   Compressing objects:  50% (10/20)   Compressing objects:  55% (11/20)   Compressing objects:  60% (12/20)   Compressing objects:  65% (13/20)   Compressing objects:  70% (14/20)   Compressing objects:  75% (15/20)   Compressing objects:  80% (16/20)   Compressing objects:  85% (17/20)   Compressing objects:  90% (18/20)   Compressing objects:  95% (19/20)   Compressing objects: 100% (20/20)   Compressing objects: 100% (20/20), done.
+Writing objects:   4% (1/24)   Writing objects:   8% (2/24)   Writing objects:  12% (3/24)   Writing objects:  16% (4/24)   Writing objects:  20% (5/24)   Writing objects:  25% (6/24)   Writing objects:  29% (7/24)   Writing objects:  33% (8/24)   Writing objects:  37% (9/24)   Writing objects:  41% (10/24)   Writing objects:  45% (11/24)   Writing objects:  50% (12/24)   Writing objects:  54% (13/24)   Writing objects:  58% (14/24)   Writing objects:  62% (15/24)   Writing objects:  66% (16/24)   Writing objects:  70% (17/24)   Writing objects:  75% (18/24)   Writing objects:  79% (19/24)   Writing objects:  83% (20/24)   Writing objects:  87% (21/24)   Writing objects:  91% (22/24)   Writing objects:  95% (23/24)   Writing objects: 100% (24/24)   Writing objects: 100% (24/24), 4.18 KiB | 82.00 KiB/s, done.
+Total 24 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), done.[K
+To https://github.com/marianna-l/okapi.git
+ * [new branch]      master -> master
+]0;~/neljassMari-Annas-MBP:neljass mari-anna$ ls
+neljass.Rproj	skriiipt.R
+]0;~/neljassMari-Annas-MBP:neljass mari-anna$ git add .
