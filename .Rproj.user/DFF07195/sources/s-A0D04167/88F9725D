@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556893739136.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "88F9725D",
+    "lastKnownWriteTime" : 1556893752,
+    "last_content_update" : 1556895844828,
+    "path" : "~/neljass/skriiipt.R",
+    "project_path" : "skriiipt.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
